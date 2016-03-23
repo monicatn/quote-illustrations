@@ -122,6 +122,10 @@ header {
     padding: 0 15px;
 }
 
+#right-arrow {
+	display: none;
+}
+
 /* Projects */
 
 .projects {
